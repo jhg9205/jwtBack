@@ -9,6 +9,9 @@ public class JWTException extends RuntimeException {
     }
 
     // add 테스트!!
+
+
+    // 마스터브런치 작업중이요
     public JWTException(String message, Throwable cause) {
         super(message, cause);
     }
