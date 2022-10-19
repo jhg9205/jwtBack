@@ -8,6 +8,7 @@ public class JWTException extends RuntimeException {
         super();
     }
 
+
     public JWTException(String message, Throwable cause) {
         super(message, cause);
     }
