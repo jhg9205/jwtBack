@@ -8,8 +8,7 @@ public class JWTException extends RuntimeException {
         super();
     }
 
-// 저 작업중하고 커밋이요
-// 커밋충돌 갈게여ㅛ
+// 커밋 마지막 테스트 master
 
     public JWTException(String message, Throwable cause) {
         super(message, cause);
