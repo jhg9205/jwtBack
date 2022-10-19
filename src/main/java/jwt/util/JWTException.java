@@ -10,7 +10,7 @@ public class JWTException extends RuntimeException {
 
 
 
-//sksksksd
+//충돌갑닏다~
 
     public JWTException(String message, Throwable cause) {
         super(message, cause);
