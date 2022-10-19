@@ -9,6 +9,13 @@ public class JWTException extends RuntimeException {
     }
     
     //깰꼼
+
+
+
+
+
+
+    //ㄴㅇㄴㅇㄴㅇㄴㅇㄴ
     public JWTException(String message, Throwable cause) {
         super(message, cause);
     }
