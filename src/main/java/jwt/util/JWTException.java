@@ -8,13 +8,7 @@ public class JWTException extends RuntimeException {
         super();
     }
 
-// 커밋 마지막 테스트 master
-
-
-
-
-
-    // 나 다른거 진행중;; develop
+// 아 커밋 제대로좀;
     public JWTException(String message, Throwable cause) {
         super(message, cause);
     }
