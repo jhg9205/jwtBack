@@ -10,6 +10,11 @@ public class JWTException extends RuntimeException {
 
 // 커밋충돌 갈게여ㅛ
 
+
+
+
+
+    // 나 다른거 진행중;; develop
     public JWTException(String message, Throwable cause) {
         super(message, cause);
     }
